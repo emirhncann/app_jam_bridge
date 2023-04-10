@@ -1,16 +1,9 @@
-# peermatching
 
-A new Flutter project.
+![Logo](http://webdelist.com/wp-content/uploads/2023/04/1.png)
 
-## Getting Started
+    
+# BRIDGE
 
-This project is a starting point for a Flutter application.
+Bu uygulamada akademideki pratik eksinliğinden yola çıkarak pratik yapmaya imkan tanıyacak ve kolayca takım arkadaşları bulabileceğimiz  Bridge uygulamasını geliştirdik. Bridge uygulamamız bizlerle aynı düzeyde olan takım arkadaşları ile beraber proje geliştirmemizi sağlar . Aynı zamanda takım çalışması, zaman yönetimi, git-github kullanımı gibi yetenekler edinebiliriz. 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
